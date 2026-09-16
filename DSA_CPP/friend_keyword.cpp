@@ -15,6 +15,7 @@ class A{
 };
 
 class B{
+    
 public:
  void showsecret(A &obj){
     cout<<obj.secret<<endl;
